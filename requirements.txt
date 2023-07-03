@@ -1,0 +1,7 @@
+cs50
+requests
+Ipython
+pandas == 1.4.4
+pandas-datareader
+
+
