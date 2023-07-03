@@ -1,4 +1,4 @@
-# bank_project
+# bank_project.py
 This project aims to create a comprehensive bank management system using Python and SQLite.
 
 
